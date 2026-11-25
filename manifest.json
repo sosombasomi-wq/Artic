@@ -1,0 +1,44 @@
+{
+  "suite": "Artic",
+  "apps": [
+    {
+      "id": "articdeck",
+      "name": "ArticDeck",
+      "kind": "Presentations",
+      "description": "Build slides on a clean canvas, then present them full screen.",
+      "version": "0.19.1",
+      "exe_name": "articdeck.exe",
+      "install_type": "portable_exe",
+      "download_urls": [
+        "https://github.com/sosombasomi-wq/Artic/releases/download/v0.19.1/articdeck.exe"
+      ],
+      "sha256": ""
+    },
+    {
+      "id": "articword",
+      "name": "ArticWord",
+      "kind": "Documents",
+      "description": "Write and format your documents in a focused editor with nothing in the way.",
+      "version": "2.0",
+      "exe_name": "articword.exe",
+      "install_type": "portable_exe",
+      "download_urls": [
+        "https://github.com/sosombasomi-wq/Artic/releases/download/v2.0/articword.exe"
+      ],
+      "sha256": ""
+    },
+    {
+      "id": "articgrid",
+      "name": "ArticGrid",
+      "kind": "Spreadsheets",
+      "description": "Organize numbers and tables in a clear grid and keep your data tidy.",
+      "version": "5.36",
+      "exe_name": "articgrid.exe",
+      "install_type": "portable_exe",
+      "download_urls": [
+        "https://github.com/sosombasomi-wq/Artic/releases/download/v5.36/articgrid.exe"
+      ],
+      "sha256": ""
+    }
+  ]
+}
